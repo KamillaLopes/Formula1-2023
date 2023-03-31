@@ -1,11 +1,15 @@
 body{
-    background-color: rgb(190, 219, 197);
+    background-color: rgb(180, 0, 0);
 }
 
 h1{
-    color: rgb(55, 78, 58);
+    color: rgb(255, 255, 255);
 }
 
 p{
     color: rgb(71, 102, 76);
+}
+
+.cabecalho{
+        background-color: black
 }
