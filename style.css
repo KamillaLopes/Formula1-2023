@@ -1,3 +1,5 @@
+
+
 body{
     background-color: rgb(180, 0, 0);
 }
@@ -7,9 +9,12 @@ h1{
 }
 
 p{
-    color: rgb(71, 102, 76);
+    color:white;
 }
 
 .cabecalho{
-        background-color: black
+        background-color: black;
+        display: flex;
+        justify-content: space-between;
 }
+
