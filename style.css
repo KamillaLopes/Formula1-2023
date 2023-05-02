@@ -9,7 +9,7 @@ body{
 
 .cabecalho{
     background-color: black;
-    color: white;
+    color: red;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -51,7 +51,8 @@ body{
 
 
 .estudante-imagem{
-    width: 120px;
+    width: 200px;
+    padding-top: 10%;
 }
 
 .estudante-icone{
@@ -65,6 +66,7 @@ body{
 .estudante-titulo{
     text-align: center;
     padding: 50px 0;
+    font-size:xx-large;
 }
 
 .estudante-todos {
