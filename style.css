@@ -71,6 +71,7 @@ body{
     display:grid;
     grid-template-columns: 20% 20% 20% 20%;
     padding-bottom: 5%;
+    color:white;
 }
 
 footer{
